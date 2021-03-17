@@ -9,5 +9,5 @@ def timeConverter(seconds): #fungsi untuk time Converter
             return'Invalid Input !'#hasil invalid input
 
 
-a = input('Masukkan detik : ')
-print(timeConverter(a))
+a = input('Masukkan detik : ') #input pada terminal
+print(timeConverter(a)) #Cetak hasil inputan
